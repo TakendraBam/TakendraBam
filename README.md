@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TakendraBam
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 📫 How to reach me @TakendraBam
